@@ -1,14 +1,11 @@
 # Моё развитие
 ![](courses.svg)
 
-* HTML Academy - Продвинутый HTML/CSS
-
-* HTML Academy - Программирование на JavaScript
-
+* HTML Academy - Интерактивные курсы
 * LoftBlog - «Основы JavaScript».
 * Хекслет - "Жизнь программиста"
 
 ![](books.svg)
 
-* Learn.javascript.ru
+* Онлайн-учебник - Learn.javascript.ru
 * "Изучаем программирование на JavaScript" - Эрик Фримен, Элизабет Робсон
