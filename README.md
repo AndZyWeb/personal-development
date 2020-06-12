@@ -1,5 +1,5 @@
 # Моё совершенствование
-![](2.svg)
+![](courses.svg)
 
 * HTML Academy - Продвинутый HTML/CSS
 
@@ -7,4 +7,4 @@
 
 * LoftBlog - «Основы JavaScript».
 
-## Книги
+![](books.svg)
