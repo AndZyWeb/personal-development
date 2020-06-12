@@ -6,6 +6,7 @@
 * HTML Academy - Программирование на JavaScript
 
 * LoftBlog - «Основы JavaScript».
+* Хекслет - "Жизнь программиста"
 
 ![](books.svg)
 
