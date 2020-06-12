@@ -8,3 +8,6 @@
 * LoftBlog - «Основы JavaScript».
 
 ![](books.svg)
+
+* Learn.javascript.ru
+* "Изучаем программирование на JavaScript" - Эрик Фримен, Элизабет Робсон
